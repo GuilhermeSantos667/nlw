@@ -4,7 +4,7 @@
 
 projeto construido no evento Next Level week da Rocketseat.
 
-[Clique aqui para acessar](https://GuilhermeSantos667.github.io/nlw-esports-explorer)
+[🔗Clique aqui para acessar](https://GuilhermeSantos667.github.io/nlw-esports-explorer)
 
 ## 😃 🛠 Tecnologias
 
